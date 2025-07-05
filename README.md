@@ -72,8 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://www.go
 
 -----
 
-\<br\>
-\<a name="中文"\>\</a\>
+
 
 ## 🇨🇳 中文
 
