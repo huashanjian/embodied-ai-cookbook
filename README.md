@@ -5,13 +5,11 @@
 [](https://github.com/sindresorhus/awesome)
 [](https://www.google.com/search?q=./CONTRIBUTING.md)
 
+
+
+
 -----
 
-**Languages:** [**English**](https://www.google.com/search?q=%23english) | [**中文**](https://www.google.com/search?q=%23%E4%B8%AD%E6%96%87)
-
------
-
-\<a name="english"\>\</a\>
 
 ## 🇬🇧 English
 
