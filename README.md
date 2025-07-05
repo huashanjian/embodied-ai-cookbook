@@ -64,11 +64,7 @@ Your help is crucial to keeping this cookbook fresh and delicious\! You can cont
   * **Improving our explanations** to make them clearer for beginners.
   * **Proposing a new topic** or "recipe" to add.
 
-Please open an **Issue** or submit a **Pull Request**. See our [**CONTRIBUTING.md**](https://www.google.com/search?q=./CONTRIBUTING.md) for more details.
-
-### 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=./LICENSE) file for details.
+Please open an **Issue** or submit a **Pull Request**.
 
 -----
 
@@ -127,8 +123,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://www.go
   * **改进我们的解释**，使其对新手更友好。
   * **提议增加新的主题**或“菜谱”。
 
-请随时提交 **Issue** 或 **Pull Request**。更多细节请阅读我们的 [**贡献指南 (CONTRIBUTING.md)**](https://www.google.com/search?q=./CONTRIBUTING.md)。
+请随时提交 **Issue** 或 **Pull Request**。
 
-### 📜 开源协议
 
-本项目基于 MIT 协议开源。详情请见 [LICENSE](https://www.google.com/search?q=./LICENSE) 文件。
