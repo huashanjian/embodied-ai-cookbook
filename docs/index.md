@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="Embodied AI Cookbook Logo" width="150" height="150">
+</div>
+
 # Embodied AI Cookbook | 具身智能菜谱
 
 <div class="hero-banner">

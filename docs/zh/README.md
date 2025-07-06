@@ -4,7 +4,11 @@
 [](https://github.com/sindresorhus/awesome)
 [](https://www.google.com/search?q=./CONTRIBUTING.md)
 
-## 🍳 欢迎来到厨房！
+<div align="center">
+  <img src="../assets/logo.png" alt="Embodied AI Cookbook Logo" width="120" height="120">
+</div>
+
+# 🍳 欢迎来到厨房！
 
 欢迎来到 **《具身智能菜谱》**！本项目是一份精心策划的学习路径，旨在为初学者揭开具身智能的神秘面纱。我们不提供复杂的代码库，而是扮演你的专属向导，为你从全网精选最优质的"原料"（核心概念）和"菜谱"（顶级的教程、论文和视频）。
 

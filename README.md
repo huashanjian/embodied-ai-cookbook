@@ -1,4 +1,7 @@
-# Embodied AI Cookbook | 具身智能菜谱
+<div align="center">
+  <img src="assets/logo.png" alt="Embodied AI Cookbook Logo" width="200" height="200">
+  <h1>Embodied AI Cookbook | 具身智能菜谱</h1>
+</div>
 
 [](https://opensource.org/licenses/MIT)
 [](https://github.com/sindresorhus/awesome)

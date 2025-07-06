@@ -4,7 +4,11 @@
 [](https://github.com/sindresorhus/awesome)
 [](https://www.google.com/search?q=./CONTRIBUTING.md)
 
-## 🍳 Welcome to the Kitchen!
+<div align="center">
+  <img src="../assets/logo.png" alt="Embodied AI Cookbook Logo" width="120" height="120">
+</div>
+
+# 🍳 Welcome to the Kitchen!
 
 Welcome to the **Embodied AI Cookbook**! This project is a curated learning path designed to demystify the world of Embodied AI for beginners. Instead of providing complex codebases, we serve as your expert guide, hand-picking the best "ingredients" (core concepts) and "recipes" (the finest tutorials, papers, and videos) from across the web.
 
