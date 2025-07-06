@@ -5,7 +5,7 @@
 [](https://www.google.com/search?q=./CONTRIBUTING.md)
 
 <div align="center">
-  <img src="../assets/logo.png" alt="Embodied AI Cookbook Logo" width="120" height="120">
+  <img src="../logo.png" alt="Embodied AI Cookbook Logo" width="120" height="120">
 </div>
 
 # 🍳 欢迎来到厨房！

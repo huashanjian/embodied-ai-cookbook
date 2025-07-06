@@ -14,8 +14,8 @@ copyright: 'Copyright &copy; 2024 Embodied AI Cookbook'
 theme:
   name: 'material'
   language: 'en'
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: logo.png
+  favicon: logo.png
   palette:
     # Palette toggle for light mode
     - scheme: default
