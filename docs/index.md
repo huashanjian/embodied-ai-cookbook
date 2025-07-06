@@ -28,41 +28,41 @@
 
 ---
 
-## 🎯 What You'll Learn | 你将学到什么
+## 🎯 What You'll Get | 你将获得什么
 
 <div class="grid cards" markdown>
 
--   :material-brain:{ .lg .middle } **Core Concepts | 核心概念**
+-   :material-map:{ .lg .middle } **Learning Roadmap | 学习路线图**
 
     ---
 
-    Understanding embodied intelligence fundamentals
+    A structured path through essential concepts
     
-    理解具身智能的基本原理
+    系统性的核心概念学习路径
 
--   :material-tools:{ .lg .middle } **Practical Skills | 实用技能**
+-   :material-star:{ .lg .middle } **Curated Resources | 精选资源**
 
     ---
 
-    Hands-on experience with simulation platforms
+    Hand-picked tutorials, papers, and tools
     
-    仿真平台的实践经验
+    精心挑选的教程、论文和工具
 
--   :material-robot:{ .lg .middle } **Real Applications | 真实应用**
+-   :material-compass:{ .lg .middle } **Learning Path | 学习路径**
 
     ---
 
-    From robotics to virtual assistants
+    Organized progression from basics to advanced
     
-    从机器人到虚拟助手
+    从基础到进阶的有序安排
 
--   :material-school:{ .lg .middle } **Latest Research | 最新研究**
+-   :material-bookmark:{ .lg .middle } **Quality Filter | 质量筛选**
 
     ---
 
-    Cutting-edge papers and breakthroughs
+    Save time by avoiding low-quality resources
     
-    前沿论文和突破性进展
+    避免低质量资源，节省你的时间
 
 </div>
 

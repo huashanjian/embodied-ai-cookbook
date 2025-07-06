@@ -35,12 +35,12 @@ This is a curated learning path for **Embodied AI** beginners. We hand-pick the 
 
 ---
 
-## 🎯 What You'll Learn | 你将学到什么
+## 🎯 What You'll Get | 你将获得什么
 
-- **Core Concepts** | 核心概念：Understanding embodied intelligence fundamentals
-- **Practical Skills** | 实用技能：Hands-on experience with simulation platforms  
-- **Real Applications** | 真实应用：From robotics to virtual assistants
-- **Latest Research** | 最新研究：Cutting-edge papers and breakthroughs
+- **Learning Roadmap** | 学习路线图：A structured path through essential concepts
+- **Curated Resources** | 精选资源：Hand-picked tutorials, papers, and tools
+- **Learning Path** | 学习路径：Organized progression from basics to advanced
+- **Quality Filter** | 质量筛选：Save time by avoiding low-quality resources
 
 ## 🚀 Zero Setup Required | 无需环境配置
 
