@@ -76,4 +76,19 @@ We welcome contributions in all languages! See our [Contributing Guide](https://
 
 ---
 
-**🎉 Ready to explore Embodied AI? Choose your language above! | 准备探索具身智能了吗？在上面选择你的语言！** 
+**🎉 Ready to explore Embodied AI? Choose your language above! | 准备探索具身智能了吗？在上面选择你的语言！**
+
+<style>
+.hero-banner {
+  text-align: center;
+  padding: 2rem 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+.language-selector {
+  text-align: center;
+  padding: 1rem 0;
+}
+</style> 
