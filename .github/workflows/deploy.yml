@@ -47,6 +47,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Setup docs structure
+        run: |
+          mkdir -p docs
+          cp -r en docs/
+          cp -r zh docs/
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
