@@ -17,3 +17,5 @@
 ---
 
 **⏭️ Next: [Chapter 7: Resource Hub](../07-resources/)** 
+
+[← Previous: Classic Project Walkthroughs](../05-classic-projects/README.md) | [Back to Main Menu](../../README.md) | [Next: Resource Hub →](../07-resources/README.md) 

@@ -3,8 +3,8 @@
 ## 🧭 Navigation
 
 - [🏠 Back to Main Menu](../../README.md)
-- [⏮️ Previous: Core Platforms](../03-platforms/)
-- [⏭️ Next: Classic Projects](../05-classic-projects/)
+- [⏮️ Previous: Core Platforms](../03-platforms/README.md)
+- [⏭️ Next: Classic Projects](../05-classic-projects/README.md)
 
 ---
 
@@ -16,4 +16,4 @@
 
 ---
 
-**⏭️ Next: [Chapter 5: Classic Projects](../05-classic-projects/)** 
+[← Previous: Core Platforms](../03-platforms/README.md) | [Back to Main Menu](../../README.md) | [Next: Classic Project Walkthroughs →](../05-classic-projects/README.md) 

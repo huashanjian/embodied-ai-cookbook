@@ -16,4 +16,6 @@
 
 ---
 
-**⏭️ 下一章：[第三章：核心平台](../03-platforms/)** 
+**⏭️ 下一章：[第三章：核心平台](../03-platforms/)**
+
+[← 上一章：简介](../01-introduction/README.md) | [返回主菜单](../../README.md) | [下一章：核心平台 →](../03-platforms/README.md) 

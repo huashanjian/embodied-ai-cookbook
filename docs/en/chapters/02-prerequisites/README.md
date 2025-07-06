@@ -16,4 +16,6 @@
 
 ---
 
-**⏭️ Next: [Chapter 3: Core Platforms](../03-platforms/)** 
+**⏭️ Next: [Chapter 3: Core Platforms](../03-platforms/)**
+
+[← Previous: Introduction](../01-introduction/README.md) | [Back to Main Menu](../../README.md) | [Next: Core Platforms →](../03-platforms/README.md) 

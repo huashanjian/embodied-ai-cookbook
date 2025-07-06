@@ -16,4 +16,6 @@
 
 ---
 
-**⏭️ Next: [Chapter 4: Basic Tasks](../04-basic-tasks/)** 
+**⏭️ Next: [Chapter 4: Basic Tasks](../04-basic-tasks/)**
+
+[← Previous: Prerequisites](../02-prerequisites/README.md) | [Back to Main Menu](../../README.md) | [Next: Basic Task Overviews →](../04-basic-tasks/README.md) 

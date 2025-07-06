@@ -17,3 +17,5 @@
 ---
 
 **⏭️ 下一章：[第七章：资源中心](../07-resources/)** 
+
+[← 上一章：经典项目解析](../05-classic-projects/README.md) | [返回主菜单](../../README.md) | [下一章：资源中心 →](../07-resources/README.md) 

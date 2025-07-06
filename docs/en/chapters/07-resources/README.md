@@ -16,3 +16,5 @@
 ---
 
 **🎉 Congratulations! You've completed the Embodied AI Cookbook!** 
+
+[← Previous: Advanced Topics](../06-advanced-topics/README.md) | [Back to Main Menu](../../README.md) 

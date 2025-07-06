@@ -16,4 +16,6 @@
 
 ---
 
-**⏭️ 下一章：[第五章：经典项目](../05-classic-projects/)** 
+**⏭️ 下一章：[第五章：经典项目](../05-classic-projects/)**
+
+[← 上一章：核心平台](../03-platforms/README.md) | [返回主菜单](../../README.md) | [下一章：经典项目解析 →](../05-classic-projects/README.md) 
