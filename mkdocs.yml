@@ -70,6 +70,7 @@ plugins:
 
 # Navigation
 nav:
+  - 'Home': 'index.md'
   - 'English':
     - 'Home': 'en/README.md'
     - 'Introduction': 'en/chapters/01-introduction/README.md'

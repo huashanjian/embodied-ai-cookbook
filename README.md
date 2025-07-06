@@ -15,12 +15,12 @@ This is a curated learning path for **Embodied AI** beginners. We hand-pick the 
 ## 🌍 Choose Your Language | 选择你的语言
 
 ### 🇬🇧 English
-**[→ Start Learning in English](./en/README.md)**
+**[→ Start Learning in English](https://huashanjian.github.io/embodied-ai-cookbook/en/)**
 
 *A comprehensive guide to Embodied AI with curated resources, step-by-step tutorials, and hands-on projects.*
 
 ### 🇨🇳 中文
-**[→ 开始中文学习](./zh/README.md)**
+**[→ 开始中文学习](https://huashanjian.github.io/embodied-ai-cookbook/zh/)**
 
 *全面的具身智能学习指南，包含精选资源、循序渐进的教程和实践项目。*
 
