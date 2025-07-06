@@ -1,11 +1,11 @@
 site_name: Embodied AI Cookbook
 site_description: 'A curated learning path for Embodied AI beginners'
-site_author: 'Your Name'
-site_url: 'https://your-username.github.io/embodied-ai-cookbook/'
+site_author: 'huashanjian'
+site_url: 'https://huashanjian.github.io/embodied-ai-cookbook/'
 
 # Repository
-repo_name: 'your-username/embodied-ai-cookbook'
-repo_url: 'https://github.com/your-username/embodied-ai-cookbook'
+repo_name: 'huashanjian/embodied-ai-cookbook'
+repo_url: 'https://github.com/huashanjian/embodied-ai-cookbook'
 
 # Copyright
 copyright: 'Copyright &copy; 2024 Embodied AI Cookbook'
@@ -100,9 +100,9 @@ extra:
       lang: zh
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-username/embodied-ai-cookbook
+      link: https://github.com/huashanjian/embodied-ai-cookbook
     - icon: fontawesome/solid/paper-plane
-      link: mailto:your-email@example.com
+      link: mailto:junhuayao41@gmail.com
 
 # Extensions
 markdown_extensions:
@@ -129,7 +129,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: your-username
+      user: huashanjian
       repo: embodied-ai-cookbook
   - pymdownx.mark
   - pymdownx.smartsymbols
