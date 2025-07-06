@@ -1,0 +1,164 @@
+site_name: Embodied AI Cookbook
+site_description: 'A curated learning path for Embodied AI beginners'
+site_author: 'Your Name'
+site_url: 'https://your-username.github.io/embodied-ai-cookbook/'
+
+# Repository
+repo_name: 'your-username/embodied-ai-cookbook'
+repo_url: 'https://github.com/your-username/embodied-ai-cookbook'
+
+# Copyright
+copyright: 'Copyright &copy; 2024 Embodied AI Cookbook'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  custom_dir: 'overrides'
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+# Plugins
+plugins:
+  - search:
+      lang: 
+        - en
+        - zh
+
+# Navigation
+nav:
+  - 'English':
+    - 'Home': 'en/README.md'
+    - 'Introduction': 'en/chapters/01-introduction/README.md'
+    - 'Prerequisites': 'en/chapters/02-prerequisites/README.md'
+    - 'Platforms': 'en/chapters/03-platforms/README.md'
+    - 'Basic Tasks': 'en/chapters/04-basic-tasks/README.md'
+    - 'Classic Projects': 'en/chapters/05-classic-projects/README.md'
+    - 'Advanced Topics': 'en/chapters/06-advanced-topics/README.md'
+    - 'Resources': 'en/chapters/07-resources/README.md'
+  - '中文':
+    - '首页': 'zh/README.md'
+    - '简介': 'zh/chapters/01-introduction/README.md'
+    - '前置知识': 'zh/chapters/02-prerequisites/README.md'
+    - '核心平台': 'zh/chapters/03-platforms/README.md'
+    - '基础任务': 'zh/chapters/04-basic-tasks/README.md'
+    - '经典项目': 'zh/chapters/05-classic-projects/README.md'
+    - '进阶话题': 'zh/chapters/06-advanced-topics/README.md'
+    - '资源中心': 'zh/chapters/07-resources/README.md'
+
+# Customization
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: 中文
+      link: /zh/
+      lang: zh
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-username/embodied-ai-cookbook
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:your-email@example.com
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: your-username
+      repo: embodied-ai-cookbook
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Extra CSS and JS
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Development
+docs_dir: '.'
+site_dir: 'site'
+
+# Analytics (optional)
+# extra:
+#   analytics:
+#     provider: google
+#     property: G-XXXXXXXXXX 
