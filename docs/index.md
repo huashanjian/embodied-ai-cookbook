@@ -12,13 +12,13 @@
 
 ### 🇬🇧 English
 
-<a href="en/README.md" class="md-button md-button--primary">Start Learning in English</a>
+<a href="en/" class="md-button md-button--primary">Start Learning in English</a>
 
 *A comprehensive guide to Embodied AI with curated resources, step-by-step tutorials, and hands-on projects.*
 
 ### 🇨🇳 中文
 
-<a href="zh/README.md" class="md-button md-button--primary">开始中文学习</a>
+<a href="zh/" class="md-button md-button--primary">开始中文学习</a>
 
 *全面的具身智能学习指南，包含精选资源、循序渐进的教程和实践项目。*
 
