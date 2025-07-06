@@ -13,12 +13,14 @@
 <div class="language-selector">
 
 ### 🇬🇧 English
-**[→ Start Learning in English](en/README.md){ .md-button .md-button--primary }**
+
+[Start Learning in English](en/README.md){ .md-button .md-button--primary }
 
 *A comprehensive guide to Embodied AI with curated resources, step-by-step tutorials, and hands-on projects.*
 
 ### 🇨🇳 中文
-**[→ 开始中文学习](zh/README.md){ .md-button .md-button--primary }**
+
+[开始中文学习](zh/README.md){ .md-button .md-button--primary }
 
 *全面的具身智能学习指南，包含精选资源、循序渐进的教程和实践项目。*
 
@@ -35,6 +37,7 @@
     ---
 
     Understanding embodied intelligence fundamentals
+    
     理解具身智能的基本原理
 
 -   :material-tools:{ .lg .middle } **Practical Skills | 实用技能**
@@ -42,6 +45,7 @@
     ---
 
     Hands-on experience with simulation platforms
+    
     仿真平台的实践经验
 
 -   :material-robot:{ .lg .middle } **Real Applications | 真实应用**
@@ -49,6 +53,7 @@
     ---
 
     From robotics to virtual assistants
+    
     从机器人到虚拟助手
 
 -   :material-school:{ .lg .middle } **Latest Research | 最新研究**
@@ -56,6 +61,7 @@
     ---
 
     Cutting-edge papers and breakthroughs
+    
     前沿论文和突破性进展
 
 </div>
@@ -90,5 +96,10 @@ We welcome contributions in all languages! See our [Contributing Guide](https://
 .language-selector {
   text-align: center;
   padding: 1rem 0;
+}
+.language-selector .md-button {
+  margin: 0.5rem;
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
 }
 </style> 
