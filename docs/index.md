@@ -10,21 +10,17 @@
 
 ## 🌍 Choose Your Language | 选择你的语言
 
-<div class="language-selector">
-
 ### 🇬🇧 English
 
-[Start Learning in English](en/README.md){ .md-button .md-button--primary }
+<a href="en/README.md" class="md-button md-button--primary">Start Learning in English</a>
 
 *A comprehensive guide to Embodied AI with curated resources, step-by-step tutorials, and hands-on projects.*
 
 ### 🇨🇳 中文
 
-[开始中文学习](zh/README.md){ .md-button .md-button--primary }
+<a href="zh/README.md" class="md-button md-button--primary">开始中文学习</a>
 
 *全面的具身智能学习指南，包含精选资源、循序渐进的教程和实践项目。*
-
-</div>
 
 ---
 
@@ -93,13 +89,17 @@ We welcome contributions in all languages! See our [Contributing Guide](https://
   border-radius: 8px;
   margin: 1rem 0;
 }
-.language-selector {
-  text-align: center;
-  padding: 1rem 0;
-}
-.language-selector .md-button {
+.md-button {
   margin: 0.5rem;
-  padding: 0.8rem 2rem;
-  font-size: 1.1rem;
+  padding: 0.8rem 2rem !important;
+  font-size: 1.1rem !important;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+.md-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 </style> 
