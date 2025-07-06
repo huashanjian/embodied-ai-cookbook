@@ -1,6 +1,12 @@
 <div align="center">
   <img src="assets/logo.png" alt="Embodied AI Cookbook Logo" width="200" height="200">
   <h1>Embodied AI Cookbook | 具身智能菜谱</h1>
+  
+  <p>
+    <a href="https://huashanjian.github.io/embodied-ai-cookbook/">🌐 Visit Website | 访问网站</a> •
+    <a href="https://github.com/huashanjian/embodied-ai-cookbook">📚 GitHub Repo | 仓库</a> •
+    <a href="./CONTRIBUTING.md">🤝 Contributing | 贡献</a>
+  </p>
 </div>
 
 [](https://opensource.org/licenses/MIT)
